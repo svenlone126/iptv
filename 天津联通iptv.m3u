@@ -69,7 +69,7 @@ http://10.10.10.5:8888/rtp/225.1.2.194:5002
 http://10.10.10.5:8888/rtp/225.1.2.237:5002
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 http://10.10.10.5:8888/rtp/225.1.2.52:5002
-#EXTINF:-1 tvg-id="" tvg-name="卫生健康" tvg-logo="http://10.10.10.5:8008/taibiao/cctvweishengjiankang.png" group-title="央视",CCTV卫生健康
+#EXTINF:-1 tvg-id="" tvg-name="卫生健康" tvg-logo="https://github.com/svenlone126/iptv/blob/main/tvlogo/cctvweishengjiankang.png" group-title="央视",CCTV卫生健康
 http://10.10.10.5:8888/rtp/225.1.2.165:5002
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="央视",CCTV兵器科技
 http://10.10.10.5:8888/rtp/225.1.2.166:5002
@@ -93,7 +93,7 @@ http://10.10.10.5:8888/rtp/225.1.2.174:5002
 http://10.10.10.5:8888/rtp/225.1.2.175:5002
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视",CCTV风云音乐
 http://10.10.10.5:8888/rtp/225.1.2.176:5002
-#EXTINF:-1 tvg-id="" tvg-name="央视文化精品" tvg-logo="http://10.10.10.5:8008/taibiao/cctvwenhuajingpin.png" group-title="央视",CCTV央视文化精品
+#EXTINF:-1 tvg-id="" tvg-name="央视文化精品" tvg-logo="https://github.com/svenlone126/iptv/blob/main/tvlogo/cctvwenhuajingpin.png" group-title="央视",CCTV央视文化精品
 http://10.10.10.5:8888/rtp/225.1.2.177:5002
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://10.10.10.5:8888/rtp/225.1.1.114:5002
