@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="https://github.com/svenlone126/iptv/blob/main/tvlogo/tjtv.png" group-title="卫视",天津卫视
 http://10.10.10.5:8888/rtp/225.1.1.111:5002
 #EXTINF:-1 tvg-id="" tvg-name="天津新闻" tvg-logo="https://github.com/svenlone126/iptv/blob/main/tvlogo/tjtv1.png" group-title="天津",天津新闻
 http://10.10.10.5:8888/rtp/225.1.1.130:5002
