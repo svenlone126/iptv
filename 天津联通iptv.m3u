@@ -73,7 +73,7 @@ http://10.10.10.5:8888/rtp/225.1.2.52:5002
 http://10.10.10.5:8888/rtp/225.1.2.165:5002
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="央视",CCTV兵器科技
 http://10.10.10.5:8888/rtp/225.1.2.166:5002
-#EXTINF:-1 tvg-id="" tvg-name="电视指南" tvg-logo="http://10.10.10.5:8008/taibiao/cctvdianshizhinan.png" group-title="央视",CCTV电视指南
+#EXTINF:-1 tvg-id="" tvg-name="电视指南" tvg-logo="https://github.com/svenlone126/iptv/blob/main/tvlogo/cctvdianshizhinan.png" group-title="央视",CCTV电视指南
 http://10.10.10.5:8888/rtp/225.1.2.167:5002
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视",CCTV风云足球
 http://10.10.10.5:8888/rtp/225.1.2.168:5002
