@@ -145,7 +145,7 @@ http://10.10.10.5:8888/rtp/225.1.2.81:5002
 http://10.10.10.5:8888/rtp/225.1.2.236:5002
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实
 http://10.10.10.5:8888/rtp/225.1.1.124:5002
-#EXTINF:-1 tvg-id="" tvg-name="东方财经" tvg-logo="http://10.10.10.5:8008/taibiao/dongfangcaijing.png" group-title="上海",东方财经
+#EXTINF:-1 tvg-id="" tvg-name="东方财经" tvg-logo="https://github.com/svenlone126/iptv/blob/main/tvlogo/dongfangcaijing.png" group-title="上海",东方财经
 http://10.10.10.5:8888/rtp/225.1.1.247:5002
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场
 http://10.10.10.5:8888/rtp/225.1.1.139:5002
