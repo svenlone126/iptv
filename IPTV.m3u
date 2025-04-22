@@ -31,7 +31,7 @@ http://10.10.10.5:8888/rtp/225.1.1.82:5002
 http://10.10.10.5:8888/rtp/225.1.1.83:5002
 #EXTINF:-1 tvg-id="" tvg-name="静海" tvg-logo="http://10.10.10.5:8008/taibiao/tjtvjinghai.png" group-title="天津",静海
 http://10.10.10.5:8888/rtp/225.1.1.110:5002
-#EXTINF:-1 tvg-id="" tvg-name="大港油田企业频道" tvg-logo="http://10.10.10.5:8008/taibiao/tjtvdagang.png" group-title="天津",大港油田企业频道
+#EXTINF:-1 tvg-id="" tvg-name="大港油田企业频道" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/tvlogo/tjtvdagang.png" group-title="天津",大港油田企业频道
 http://10.10.10.5:8888/rtp/225.1.2.14:5002
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://10.10.10.5:8888/rtp/225.1.1.120:5002
