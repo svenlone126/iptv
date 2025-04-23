@@ -191,7 +191,7 @@ http://10.10.10.5:8888/rtp/225.1.2.105:5002
 http://10.10.10.5:8888/rtp/225.1.2.129:5002
 #EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="地方",CETV早期教育
 http://10.10.10.5:8888/rtp/225.1.2.207:5002
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="4K",北京卫视4K
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视4K" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="4K",北京卫视4K
 http://10.10.10.5:8888/rtp/225.1.2.206:5002
 #EXTINF:-1 tvg-id="74" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV4K
 http://10.10.10.5:8888/rtp/225.1.2.245:5002
