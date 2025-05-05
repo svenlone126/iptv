@@ -131,7 +131,7 @@ http://10.10.10.5:8888/rtp/225.1.2.28:5002
 http://10.10.10.5:8888/rtp/225.1.2.29:5002
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
 http://10.10.10.5:8888/rtp/225.1.2.61:5002
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
+#EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
 http://10.10.10.5:8888/rtp/225.1.2.82:5002
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视",三沙卫视
 http://10.10.10.5:8888/rtp/225.1.1.182:5002
