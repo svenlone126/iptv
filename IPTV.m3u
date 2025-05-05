@@ -209,7 +209,7 @@ http://10.10.10.5:8888/rtp/225.1.1.175:5002
 http://10.10.10.5:8888/rtp/225.1.1.176:5002
 #EXTINF:-1 tvg-id="807" tvg-name="天津小说广播" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/tvlogo/tjxiaoshuoguangbo.jpg" group-title="天津广播电台",天津小说广播
 http://10.10.10.5:8888/rtp/225.1.1.177:5002
-#EXTINF:-1 tvg-id="808" tvg-name="天津私家车音乐广播" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/tvlogo/sijiacheyinyueguangbo.jpg" group-title="天津广播电台",天津私家车音乐广播
+#EXTINF:-1 tvg-id="808" tvg-name="天津私家车音乐广播" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/tvlogo/tjsijiacheyinyueguangbo.jpg" group-title="天津广播电台",天津私家车音乐广播
 http://10.10.10.5:8888/rtp/225.1.1.178:5002
 #EXTINF:-1 tvg-id="809" tvg-name="天津音乐广播" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/tvlogo/tjyinyueguangbo.jpg" group-title="天津广播电台",天津音乐广播
 http://10.10.10.5:8888/rtp/225.1.1.179:5002
