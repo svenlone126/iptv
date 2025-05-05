@@ -195,23 +195,23 @@ http://10.10.10.5:8888/rtp/225.1.2.207:5002
 http://10.10.10.5:8888/rtp/225.1.2.206:5002
 #EXTINF:-1 tvg-id="74" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV4K
 http://10.10.10.5:8888/rtp/225.1.2.245:5002
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/tvlogo/tjxiangshengguangbo.jpg" group-title="天津广播电台",天津相声广播
+#EXTINF:-1 tvg-id="801" tvg-name="天津文艺广播" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/tvlogo/tjwenyiguangbo.jpg" group-title="天津广播电台",天津文艺广播
 http://10.10.10.5:8888/rtp/225.1.1.171:5002
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/tvlogo/tjbinhaiguangbo.jpg" group-title="天津广播电台",天津滨海广播
+#EXTINF:-1 tvg-id="802" tvg-name="天津经济广播" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/tvlogo/tjjingjiguangbo.jpg" group-title="天津广播电台",天津经济广播
 http://10.10.10.5:8888/rtp/225.1.1.172:5002
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/tvlogo/tjjiaotongguangbo.jpg" group-title="天津广播电台",天津交通广播
+#EXTINF:-1 tvg-id="803" tvg-name="天津新闻广播" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/tvlogo/tjxinwenguangbo.jpg" group-title="天津广播电台",天津新闻广播
 http://10.10.10.5:8888/rtp/225.1.1.173:5002
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/tvlogo/tjjingjiguangbo.jpg" group-title="天津广播电台",天津经济广播
+#EXTINF:-1 tvg-id="804" tvg-name="天津生活广播" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/tvlogo/tjshenghuoghuangbo.jpg" group-title="天津广播电台",天津生活广播
 http://10.10.10.5:8888/rtp/225.1.1.174:5002
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/tvlogo/tjshenghuoghuangbo.jpg" group-title="天津广播电台",天津生活广播
+#EXTINF:-1 tvg-id="805" tvg-name="天津交通广播" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/tvlogo/tjjiaotongguangbo.jpg" group-title="天津广播电台",天津交通广播
 http://10.10.10.5:8888/rtp/225.1.1.175:5002
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/tvlogo/tjwenyiguangbo.jpg" group-title="天津广播电台",天津文艺广播
+#EXTINF:-1 tvg-id="806" tvg-name="天津相声广播" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/tvlogo/tjxiangshengguangbo.jpg" group-title="天津广播电台",天津相声广播
 http://10.10.10.5:8888/rtp/225.1.1.176:5002
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/tvlogo/tjyinyueguangbo.jpg" group-title="天津广播电台",天津音乐广播
+#EXTINF:-1 tvg-id="807" tvg-name="天津小说广播" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/tvlogo/tjxiaoshuoguangbo.jpg" group-title="天津广播电台",天津小说广播
 http://10.10.10.5:8888/rtp/225.1.1.177:5002
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/tvlogo/tjdongting885.jpg" group-title="天津广播电台",天津动听885
+#EXTINF:-1 tvg-id="808" tvg-name="天津私家车音乐广播" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/tvlogo/sijiacheyinyueguangbo.jpg" group-title="天津广播电台",天津私家车音乐广播
 http://10.10.10.5:8888/rtp/225.1.1.178:5002
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/tvlogo/tjxinwenguangbo.jpg" group-title="天津广播电台",天津新闻中心
+#EXTINF:-1 tvg-id="809" tvg-name="天津音乐广播" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/tvlogo/tjyinyueguangbo.jpg" group-title="天津广播电台",天津音乐广播
 http://10.10.10.5:8888/rtp/225.1.1.179:5002
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/tvlogo/tjxiaoshuoguangbo.jpg" group-title="天津广播电台",天津小说广播
+#EXTINF:-1 tvg-id="810" tvg-name="天津经典音乐广播" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/tvlogo/tjdongting885.jpg" group-title="天津广播电台",天津经典音乐广播
 http://10.10.10.5:8888/rtp/225.1.1.180:5002
