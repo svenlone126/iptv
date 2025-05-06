@@ -13,25 +13,25 @@ http://10.10.10.5:8888/rtp/225.1.1.128:5002
 http://10.10.10.5:8888/rtp/225.1.1.122:5002
 #EXTINF:-1 tvg-id="502" tvg-name="天津教育" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/main/PNG/天津教育.png" group-title="天津",天津教育
 http://10.10.10.5:8888/rtp/225.1.1.129:5002
-#EXTINF:-1 tvg-id="" tvg-name="天视文旅" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/main/PNG/tjtvwenlv.png" group-title="天津",天视文旅
+#EXTINF:-1 tvg-id="" tvg-name="天视文旅" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/main/PNG/天视文旅.png" group-title="天津",天视文旅
 http://10.10.10.5:8888/rtp/225.1.2.123:5002
-#EXTINF:-1 tvg-id="" tvg-name="天视家居" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/main/PNG/tjtvjiajv.png" group-title="天津",天视家居
+#EXTINF:-1 tvg-id="" tvg-name="天视家居" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/main/PNG天视家居.png" group-title="天津",天视家居
 http://10.10.10.5:8888/rtp/225.1.1.243:5002
-#EXTINF:-1 tvg-id="" tvg-name="天津河东频道" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/main/PNG/tjtvhedong.png" group-title="天津",天津河东频道
+#EXTINF:-1 tvg-id="" tvg-name="天津河东频道" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/main/PNG/天津河东频道.png" group-title="天津",天津河东频道
 http://10.10.10.5:8888/rtp/225.1.2.2:5002
-#EXTINF:-1 tvg-id="" tvg-name="天津河西频道" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/main/PNG/tjtvhexi.png" group-title="天津",天津河西频道
+#EXTINF:-1 tvg-id="" tvg-name="天津河西频道" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/main/PNG/天津河西频道.png" group-title="天津",天津河西频道
 http://10.10.10.5:8888/rtp/225.1.2.4:5002
-#EXTINF:-1 tvg-id="" tvg-name="天津滨海1" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/main/PNG/tjtvbinhai1.png" group-title="天津",天津滨海1
+#EXTINF:-1 tvg-id="" tvg-name="天津滨海1" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/main/PNG/天津滨海1.png" group-title="天津",天津滨海1
 http://10.10.10.5:8888/rtp/225.1.2.7:5002
-#EXTINF:-1 tvg-id="" tvg-name="天津滨海2" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/main/PNG/tjtvbinhai2.png" group-title="天津",天津滨海2
+#EXTINF:-1 tvg-id="" tvg-name="天津滨海2" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/main/PNG/天津滨海2.png" group-title="天津",天津滨海2
 http://10.10.10.5:8888/rtp/225.1.2.8:5002
-#EXTINF:-1 tvg-id="" tvg-name="天津蓟州频道" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/main/PNG/tjtvjizhou.png" group-title="天津",天津蓟州频道
+#EXTINF:-1 tvg-id="" tvg-name="天津蓟州频道" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/main/PNG/天津蓟州频道.png" group-title="天津",天津蓟州频道
 http://10.10.10.5:8888/rtp/225.1.1.82:5002
-#EXTINF:-1 tvg-id="" tvg-name="宝坻" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/main/PNG/tjtvbd.png" group-title="天津",天津宝坻频道
+#EXTINF:-1 tvg-id="" tvg-name="天津宝坻频道" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/main/PNG/天津宝坻频道.png" group-title="天津",天津宝坻频道
 http://10.10.10.5:8888/rtp/225.1.1.83:5002
-#EXTINF:-1 tvg-id="" tvg-name="天津静海频道" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/main/PNG/tjtvjinghai.png" group-title="天津",天津静海频道
+#EXTINF:-1 tvg-id="" tvg-name="天津静海频道" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/main/PNG/天津静海频道.png" group-title="天津",天津静海频道
 http://10.10.10.5:8888/rtp/225.1.1.110:5002
-#EXTINF:-1 tvg-id="" tvg-name="天津大港油田企业频道" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/main/PNG/tjtvdagang.png" group-title="天津",天津大港油田企业频道
+#EXTINF:-1 tvg-id="" tvg-name="天津大港油田企业频道" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/main/PNG/天津大港油田企业频道.png" group-title="天津",天津大港油田企业频道
 http://10.10.10.5:8888/rtp/225.1.2.14:5002
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/main/PNG/CCTV1.png" group-title="央视",CCTV1
 http://10.10.10.5:8888/rtp/225.1.1.120:5002
