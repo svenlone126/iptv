@@ -153,7 +153,7 @@ http://10.10.10.5:8888/rtp/225.1.1.139:5002
 http://10.10.10.5:8888/rtp/225.1.1.135:5002
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CHC家庭影院.png" group-title="地方",CHC家庭影院
 http://10.10.10.5:8888/rtp/225.1.1.213:5002
-#EXTINF:-1 tvg-id="134" tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CHC影迷电影.png" group-title="地方",CHC影迷电影
+#EXTINF:-1 tvg-id="134" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CHC影迷电影.png" group-title="地方",CHC影迷电影
 http://10.10.10.5:8888/rtp/225.1.1.214:5002
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CHC动作电影.png" group-title="地方",CHC动作电影
 http://10.10.10.5:8888/rtp/225.1.1.215:5002
