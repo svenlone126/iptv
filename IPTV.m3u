@@ -193,7 +193,7 @@ http://10.10.10.5:8888/rtp/225.1.2.129:5002
 http://10.10.10.5:8888/rtp/225.1.2.207:5002
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/北京卫视4K超高清.png" group-title="4K",北京卫视4K超高清
 http://10.10.10.5:8888/rtp/225.1.2.206:5002
-#EXTINF:-1 tvg-id="74" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CCTV4k.png" group-title="4K",CCTV4K
+#EXTINF:-1 tvg-id="74" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CCTV4K.png" group-title="4K",CCTV4K
 http://10.10.10.5:8888/rtp/225.1.2.245:5002
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://10.10.10.5:8888/rtp/225.1.1.32:5002
