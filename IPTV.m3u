@@ -77,7 +77,7 @@ http://10.10.10.5:8888/rtp/225.1.2.166:5002
 http://10.10.10.5:8888/rtp/225.1.2.167:5002
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CCTV风云足球.png" group-title="央视",CCTV风云足球
 http://10.10.10.5:8888/rtp/225.1.2.168:5002
-#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CCTV高尔夫网球" group-title="央视",CCTV高尔夫网球
+#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CCTV高尔夫网球.png" group-title="央视",CCTV高尔夫网球
 http://10.10.10.5:8888/rtp/225.1.2.169:5002
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CCTV央视台球.png" group-title="央视",CCTV央视台球
 http://10.10.10.5:8888/rtp/225.1.2.170:5002
