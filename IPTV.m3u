@@ -33,41 +33,41 @@ http://10.10.10.5:8888/rtp/225.1.1.83:5002
 http://10.10.10.5:8888/rtp/225.1.1.110:5002
 #EXTINF:-1 tvg-id="" tvg-name="天津大港油田企业频道" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/天津大港油田企业频道.png" group-title="天津",天津大港油田企业频道
 http://10.10.10.5:8888/rtp/225.1.2.14:5002
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CCTV1.png" group-title="央视",CCTV1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://10.10.10.5:8888/rtp/225.1.1.120:5002
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CCTV2.png" group-title="央视",CCTV2
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png.png" group-title="央视",CCTV2
 http://10.10.10.5:8888/rtp/225.1.1.133:5002
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CCTV3.png" group-title="央视",CCTV3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
 http://10.10.10.5:8888/rtp/225.1.1.158:5002
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CCTV4.png" group-title="央视",CCTV4
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
 http://10.10.10.5:8888/rtp/225.1.1.150:5002
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CCTV5.png" group-title="央视",CCTV5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://10.10.10.5:8888/rtp/225.1.1.160:5002
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CCTV5+.png" group-title="央视",CCTV5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://10.10.10.5:8888/rtp/225.1.1.121:5002
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CCTV6.png" group-title="央视",CCTV6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
 http://10.10.10.5:8888/rtp/225.1.1.195:5002
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CCTV7.png" group-title="央视",CCTV7
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
 http://10.10.10.5:8888/rtp/225.1.1.138:5002
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CCTV8.png" group-title="央视",CCTV8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
 http://10.10.10.5:8888/rtp/225.1.1.196:5002
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CCTV9.png" group-title="央视",CCTV9
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
 http://10.10.10.5:8888/rtp/225.1.1.119:5002
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CCTV10.png" group-title="央视",CCTV10
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
 http://10.10.10.5:8888/rtp/225.1.1.140:5002
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CCTV11.png" group-title="央视",CCTV11
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11
 http://10.10.10.5:8888/rtp/225.1.2.192:5002
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CCTV12.png" group-title="央视",CCTV12
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
 http://10.10.10.5:8888/rtp/225.1.1.142:5002
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CCTV13.png" group-title="央视",CCTV13
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
 http://10.10.10.5:8888/rtp/225.1.2.193:5002
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CCTV14.png" group-title="央视",CCTV14
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
 http://10.10.10.5:8888/rtp/225.1.1.144:5002
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CCTV15.png" group-title="央视",CCTV15
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15
 http://10.10.10.5:8888/rtp/225.1.2.194:5002
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CCTV16.png" group-title="央视",CCTV16
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16
 http://10.10.10.5:8888/rtp/225.1.2.237:5002
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CCTV17.png" group-title="央视",CCTV17
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 http://10.10.10.5:8888/rtp/225.1.2.52:5002
 #EXTINF:-1 tvg-id="435" tvg-name="卫生健康" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CCTV卫生健康.png" group-title="央视",CCTV卫生健康
 http://10.10.10.5:8888/rtp/225.1.2.165:5002
@@ -193,7 +193,7 @@ http://10.10.10.5:8888/rtp/225.1.2.129:5002
 http://10.10.10.5:8888/rtp/225.1.2.207:5002
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/北京卫视4K超高清.png" group-title="4K",北京卫视4K超高清
 http://10.10.10.5:8888/rtp/225.1.2.206:5002
-#EXTINF:-1 tvg-id="74" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CCTV4K.png" group-title="4K",CCTV4K
+#EXTINF:-1 tvg-id="74" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K",CCTV4K
 http://10.10.10.5:8888/rtp/225.1.2.245:5002
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://10.10.10.5:8888/rtp/225.1.1.32:5002
@@ -245,7 +245,7 @@ http://10.10.10.5:8888/rtp/225.1.2.23:5002
 http://10.10.10.5:8888/rtp/225.1.2.198:5002
 #EXTINF:-1 tvg-id="" tvg-name="证券服务" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/证券服务.png" group-title="数字付费",证券服务
 http://10.10.10.5:8888/rtp/225.1.1.72:5002
-#EXTINF:-1 tvg-id="25" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CGTN.png" group-title="央视",CGTN
+#EXTINF:-1 tvg-id="25" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
 http://10.10.10.5:8888/rtp/225.1.1.27:5002
 #EXTINF:-1 tvg-id="29" tvg-name="CGTN记录" tvg-logo="https://raw.githubusercontent.com/svenlone126/iptv/refs/heads/main/PNG/CGTN记录.png" group-title="央视",CGTN记录
 http://10.10.10.5:8888/rtp/225.1.1.55:5002
